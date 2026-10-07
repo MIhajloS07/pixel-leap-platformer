@@ -63,7 +63,7 @@ def draw_background(screen):
     screen.fill((20, 24, 45))
   
     pg.draw.rect(screen, (241, 196, 15), (650, 50, 60, 60))
-    pg.draw.rect(screen, (20, 24, 45), (665, 50, 45, 45)) # Efekat polumeseca
+    pg.draw.rect(screen, (20, 24, 45), (665, 50, 45, 45)) 
     
     stars = [(100, 80), (250, 40), (400, 120), (550, 60), (750, 150), (50, 200), (320, 180)]
     for sx, sy in stars:
@@ -390,7 +390,7 @@ def update_player(player: Player, platforms, moving_platforms):
         rect.bottom = SCREEN_H
         player.p.y = rect.centery
         player.v.y = 0
-        # IMPORTANT - set player to be on base when player touch bottom screen and set is_jumping to False
+        # !IMPORTANT - set player to be on base when player touch bottom screen and set is_jumping to False
         player.on_base = True
         player.is_jumping = False
     
