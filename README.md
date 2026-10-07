@@ -1,5 +1,9 @@
-# Pixel Leap Platformer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=e8b12f&width=600&lines=Pixel+leap+platformer" alt="Typing SVG" align="middle" />
+  <img width="28" height="35" alt="image" align="middle" src="https://github.com/user-attachments/assets/949d0813-a33d-4024-b644-98e6f3db8202" />
+</p>
 
+---
 A retro-inspired 2D pixel-art platformer built with **Python** and **Pygame**.
 
 Navigate through a medieval-themed level, avoid dangerous obstacles and enemies, collect coins, and reach the goal before losing all your lives.
