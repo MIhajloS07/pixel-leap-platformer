@@ -42,6 +42,15 @@ Navigate through a medieval-themed level, avoid dangerous obstacles and enemies,
 
 ---
 
+## Screenshots
+
+| Game GUI | Controls |
+|---|---|
+| <img width="793" height="623" alt="image" src="https://github.com/user-attachments/assets/9adf3793-8bfb-434b-95e9-72c5e47e2b7c" /> | <img width="792" height="618" alt="image" src="https://github.com/user-attachments/assets/0e815568-c765-4511-8d59-89e3aeb61786" /> |
+| Win screen | Lose screen |
+|---|---|
+| <img width="793" height="623" alt="image" src="https://github.com/user-attachments/assets/5642c5f7-4940-42be-81a2-0bb5136df938" /> | <img width="792" height="621" alt="image" src="https://github.com/user-attachments/assets/1f8c200e-8246-49f8-ba00-cc888a3d1cd6" /> |
+
 ## 🏆 How to Play
 
 Your goal is to reach the level's **green goal** while collecting as many coins as possible.
